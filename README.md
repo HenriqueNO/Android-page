@@ -4,7 +4,7 @@
 ### Principais aprendizados ( para lembrar ).
 
 - <strong>Grouping tags</strong>, nem tudo que é um container é uma div, o HTML5 não é só exibir o conteúdo em tela, existe as tags semânticas que ajudam a deixar o codigo mais claro.
-- </iframe> responsivo, como deixar o iframe ajustavel em varias resoluções com uso de <strong>position: relative e absolute</strong>.
+- \<iframe /> responsivo, como deixar o iframe ajustavel em varias resoluções com uso de <strong>position: relative e absolute</strong>.
 - Podemos usar mais de um \<h1> no html, desde que esteja em diferentes grupos de tag, por exemplo <header> e <main>.
 
 
