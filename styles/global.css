@@ -28,5 +28,5 @@ a.externo::after {
 
   --font-android: "idroid", cursive;
   --font-padrao: Arial, Verdana, Helvetica, sans-serif;
-  --font-destaque: 'Bebas Neue', cursive;
+  --font-destaque: 'Bebas Neue', cursive, sans-serif;
 }
